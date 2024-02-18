@@ -5,3 +5,4 @@ config.__pycache__
 database.sqlite3
 access_token.txt
 refresh_token.txt
+config.py
