@@ -1,0 +1,3 @@
+SQLALCHEMY_URL='sqlite+aiosqlite:///database.sqlite3'
+SQLALCHEMY_ECHO=True
+ADMIN_ID=[1020781796, 5501935170, 509298276]
